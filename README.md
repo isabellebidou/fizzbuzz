@@ -1,4 +1,8 @@
 # fizzbuzz
 test
 # please open the program in your ide
-# to start it enter a command on the terminal with an argument like :  'node server 45'
+# to start it 
+# cd into the directory
+# open a terminal prompt
+# enter the command node server + number
+# like :  'node server 45'
